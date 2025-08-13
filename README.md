@@ -1,5 +1,5 @@
 ### Hi
-I'm [jacob](http://jahoo.github.io). I’m into computational linguistics and cognitive science, in particular sequential Bayesian inference and models of incremental language comprehension.  I love snow.  And dance.  And Prokofiev.  And the Estonian language.  And accordions.  Pronouns 3sɢ.ᴍ, or any other.
+I'm [jacob](http://jahoo.github.io). I’m into computational linguistics and cognitive science, in particular sequential Bayesian inference and models of incremental language comprehension.  I love snow.  And dance.  And Prokofiev.  And the Estonian language.  I wish I could play the chromatic button accordion.  Pronouns 3sɢ.ᴍ, or any other.
 
 <img height="20" src="https://www.vectorkhazana.com/assets/images/products/Lada_logo_2,1.jpg"/>
 <!-- <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" />
